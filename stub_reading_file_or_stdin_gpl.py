@@ -43,7 +43,8 @@ def main():
     parser.add_argument(
         "-t", nargs=1, default=["nothing"], metavar="TEXT",
         help="What to print")
-    parser.add_argument('-v', '--version', action='version', version=get_version_str())
+    parser.add_argument('-v', '--version', action='version',
+                        version=get_version_str())
     parser.add_argument(
         "files", nargs="*", metavar="FILE", help="Files for input")
     arguments = parser.parse_args(argv[1:])
