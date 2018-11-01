@@ -1,0 +1,39 @@
+[PROJECT NAME]
+Copyright (c) 2017-2018 Robert Pilstål
+
+Documentation, examples and other related material for [PROJECT NAME] is licensed under the CC BY 4.0 license, see the file LICENSE_ccby.html provided in the same directory as this NOTICE file.
+
+This product make use of the following third party softwares,
+
+[List all copyright notices, an anal approach for SciPy et al. below, but that science for ya; so you get an idea of it]
+
+This software is written in python, without alteration nor redistribution of python; Copyright © 2001-2018 Python Software Foundation; All Rights Reserved
+
+This projects documentation utilize IPython through its Jupyter interface, without alteration nor redistribution of IPython nor Jupyter; Copyright (c) 2011, IPython Development Team. All rights reserved; Copyright (c) 2017, Project Jupyter Contributors. All rights reserved.
+
+This software make use of Matplotlib, without alteration nor redistribution of Matplotlib; Copyright (c) 2012-2013 Matplotlib Development Team; All Rights Reserved.
+
+This software make use of NumPy, without alteration nor redistribution of NumPy; Copyright © 2005-2018, NumPy Developers. All rights reserved.
+
+This software make use of Pandas, without alteration nor redistribution of Pandas; Copyright (c) 2008-2012, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team. All rights reserved.
+
+This software make use of SciPy, without alteration nor redistribution of SciPy; Copyright © 2001, 2002 Enthought, Inc. All rights reserved; Copyright © 2003-2013 SciPy Developers. All rights reserved.
+
+This software make use of SymPy, without alteration nor redistribution of SymPy; Copyright (c) 2006-2018 SymPy Development Team. All rights reserved.
+
+In scientific publications and the like, proper attribution of this work is done by citing the following publications;
+
+[List DOI-URL's (where possible) of publications relating to current and prior work; example below]
+
+Cython; https://doi.org/10.1109/MCSE.2010.118
+F2PY; https://doi.org/10.1504/IJCSE.2009.029165
+IPython; https://doi.org/10.1109/MCSE.2007.53
+Matplotlib; https://doi.org/10.1109/MCSE.2007.55
+NumPy; Travis E, Oliphant. A guide to NumPy, USA: Trelgol Publishing, (2006).
+Pandas; http://conference.scipy.org/proceedings/scipy2010/mckinney.html
+Scikit-learn; http://jmlr.org/papers/v12/pedregosa11a.html
+scikit-image; https://doi.org/10.7717/peerj.453
+SciPy site; Jones E, Oliphant E, Peterson P, et al. SciPy: Open Source Scientific Tools for Python, 2001-, http://www.scipy.org/ [Online; accessed YYYY-MM-DD]
+SciPy 2007; https://doi.org/10.1109/MCSE.2007.58
+SciPy 2011; https://doi.org/10.1109/MCSE.2011.36
+SymPy; https://doi.org/10.7717/peerj-cs.103

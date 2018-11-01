@@ -26,7 +26,7 @@ Thus you are free to use these stubs, adapt them to your own work, in any manner
 The stock licenses are;
 
 * `*_gpl.py`, [GNU GPL v3]
-* `*_a2.py`, [Apache 2.0]
+* `*_a2.py`, [Apache 2.0], using recommended [Apache boilerplate].
 
 Include, rename and reformat `NOTICE_example.a2` together with the `LICENSE_ccby.html` for [CC BY 4.0] licensing of documentation and example materials.
 
@@ -43,6 +43,7 @@ Just change the copyright notices of your choice to the relevant year, project n
 All documentation, examples and other promotion material provided by the author(s) are licensed under [CC BY 4.0], with attribution guidelines provided in the Apache 2.0 NOTICE file.
 
 [apache 2.0]: https://www.apache.org/licenses/LICENSE-2.0.html
+[apache boilerplate]: http://apache.org/licenses/LICENSE-2.0.html#apply
 [notice]: http://www.apache.org/licenses/LICENSE-2.0.html#redistribution
 [burden]: http://www.apache.org/dev/licensing-howto.html#mod-notice
 [cc by 4.0]: https://creativecommons.org/licenses/by/4.0/
