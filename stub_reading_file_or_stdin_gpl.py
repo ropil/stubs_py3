@@ -17,9 +17,6 @@
 
    You should have received a copy of the GNU General Public License
    along with this program. If not, see <http://www.gnu.org/licenses/>.
-
-   Any non-software publication that make use of, or is a derivative of,
-   this work should adhere to the provided CC-BY license instead.
 '''
 
 # Version and license information
@@ -28,9 +25,7 @@ def get_version_str():
         "{project}  Copyright (C) 2018  Robert Pilstål;",
         "This program comes with ABSOLUTELY NO WARRANTY.",
         "This is free software, and you are welcome to redistribute it",
-        "under certain conditions; see supplied General Public License.",
-        "Non-software publications derivative of this work should adhere",
-        "to the provided CC-BY license."
+        "under certain conditions; see supplied General Public License."
         ])
 
 
