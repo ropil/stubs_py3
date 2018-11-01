@@ -7,6 +7,10 @@ For your own ease of use; please fork and update with your own name and current 
 
 Provided under [MIT license] to enable the least legal friction in sharing of these stubs.
 
+## IANAL Disclaimer
+
+I am not a lawyer - therefore nothing stated in this file is to be taken as legal advice.
+
 ## Description of stock stubs
  
 ### stub_main_only_*.py
